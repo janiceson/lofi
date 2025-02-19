@@ -1,0 +1,823 @@
+@font-face {
+    font-family: "LuxuriousScript-Regular";
+    src: url(LuxuriousScript-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: "AbrilFatface-Regular";
+    src: url(AbrilFatface-Regular.ttf);
+  }
+
+@font-face {
+    font-family: "Didot-Regular";
+    src: url(DidotRegular.ttf);
+}
+
+.desktop-15,
+.desktop-15 * {
+  box-sizing: border-box;
+}
+.desktop-15 {
+  background: #ffffff;
+  height: 9375px;
+  position: relative;
+  overflow: hidden;
+}
+.how-lo-fi-artists-make-music-perfect-for-work {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 160px;
+  line-height: 90%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.75;
+  position: absolute;
+  left: 120px;
+  top: 155px;
+  width: 906px;
+  height: 587px;
+}
+.or-studying-or-chilling {
+  color: #000000;
+  text-align: left;
+  font-family: "LuxuriousScript-Regular", sans-serif;
+  font-size: 90px;
+  line-height: 90px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.8;
+  position: absolute;
+  left: 806px;
+  top: 647px;
+  width: 536px;
+  height: 111px;
+}
+.the-genre-started-roughly-a-decade-ago-among-a-loose-network-of-artists-who-repurposed-last-century-drum-machines-and-samples-for-its-signature-mellow-sound-but-in-the-past-few-years-lo-fi-artist-cel-n-carlo-gonzalez-said-its-audience-has-changed-from-aural-tinkerers-on-sound-cloud-to-crowds-of-listeners-on-you-tube-and-spotify-seeking-unobtrusive-music-for-working-studying-or-doing-nothing-at-all-the-tracks-blur-productivity-and-leisure-with-labels-such-as {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 30px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 1508px;
+  width: 503px;
+  height: 198px;
+}
+.and-some-have-become-wildly-popular {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 30px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 2123px;
+  width: 495px;
+  height: 59px;
+}
+.beats-to-chill-study-relax {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 701px;
+  top: 1908px;
+  width: 492px;
+  height: 34px;
+}
+.beats-to-chill-study-relax-span {
+  color: #000000;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.beats-to-chill-study-relax-span2 {
+  color: #000000;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.beats-to-chill-study-relax-span3 {
+  color: #000000;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.carlo-gonzalez-s-trajectory-has-mirrored-the-genre-s-though-she-said-she-s-not-the-typical-artist-she-started-making-beats-as-a-hobby-about-10-years-ago-when-she-was-14-i-was-very-bad-at-it-she-said-but-she-got-to-college-and-honed-her-skills-her-music-appeared-on-top-playlists-and-one-day-spilled-over-from-you-tube-and-spotify-into-the-physical-world-a-friend-told-her-he-heard-one-of-her-tracks-at-a-starbucks-in-costa-rica-about-a-year-ago-she-started-hearing-lo-fi-leaking-out-of-bay-area-coffee-shops-and-at-least-one-bar-to-most-listeners-it-s-probably-surprising-her-track-was-recognized-at-all-lo-fi-s-grainy-instrumental-beats-have-grown-successful-and-infamous-precisely-for-their-undifferentiated-sound {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 321px;
+  top: 2276px;
+  width: 690px;
+  height: 554px;
+}
+.carlo-gonzalez-s-trajectory-has-mirrored-the-genre-s-though-she-said-she-s-not-the-typical-artist-she-started-making-beats-as-a-hobby-about-10-years-ago-when-she-was-14-i-was-very-bad-at-it-she-said-but-she-got-to-college-and-honed-her-skills-her-music-appeared-on-top-playlists-and-one-day-spilled-over-from-you-tube-and-spotify-into-the-physical-world-a-friend-told-her-he-heard-one-of-her-tracks-at-a-starbucks-in-costa-rica-about-a-year-ago-she-started-hearing-lo-fi-leaking-out-of-bay-area-coffee-shops-and-at-least-one-bar-to-most-listeners-it-s-probably-surprising-her-track-was-recognized-at-all-lo-fi-s-grainy-instrumental-beats-have-grown-successful-and-infamous-precisely-for-their-undifferentiated-sound-span {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.carlo-gonzalez-s-trajectory-has-mirrored-the-genre-s-though-she-said-she-s-not-the-typical-artist-she-started-making-beats-as-a-hobby-about-10-years-ago-when-she-was-14-i-was-very-bad-at-it-she-said-but-she-got-to-college-and-honed-her-skills-her-music-appeared-on-top-playlists-and-one-day-spilled-over-from-you-tube-and-spotify-into-the-physical-world-a-friend-told-her-he-heard-one-of-her-tracks-at-a-starbucks-in-costa-rica-about-a-year-ago-she-started-hearing-lo-fi-leaking-out-of-bay-area-coffee-shops-and-at-least-one-bar-to-most-listeners-it-s-probably-surprising-her-track-was-recognized-at-all-lo-fi-s-grainy-instrumental-beats-have-grown-successful-and-infamous-precisely-for-their-undifferentiated-sound-span2 {
+  color: #000000;
+  font-family: "TimesNewRoman-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+}
+.carlo-gonzalez-s-trajectory-has-mirrored-the-genre-s-though-she-said-she-s-not-the-typical-artist-she-started-making-beats-as-a-hobby-about-10-years-ago-when-she-was-14-i-was-very-bad-at-it-she-said-but-she-got-to-college-and-honed-her-skills-her-music-appeared-on-top-playlists-and-one-day-spilled-over-from-you-tube-and-spotify-into-the-physical-world-a-friend-told-her-he-heard-one-of-her-tracks-at-a-starbucks-in-costa-rica-about-a-year-ago-she-started-hearing-lo-fi-leaking-out-of-bay-area-coffee-shops-and-at-least-one-bar-to-most-listeners-it-s-probably-surprising-her-track-was-recognized-at-all-lo-fi-s-grainy-instrumental-beats-have-grown-successful-and-infamous-precisely-for-their-undifferentiated-sound-span3 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.some-of-what-drives-lo-fi-s-audience-are-businesses-or-people-who-want-something-kind-of-calming {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 50px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 479px;
+  top: 3163px;
+  width: 534px;
+  height: 1223px;
+}
+.said-carlo-gonzalez-a-law-student-at-stanford-university-known-to-fans-as-seneca-b-newer-algorithms-have-encouraged-a-kind-of-featureless-formula-she-said-her-breakout-hit-on-spotify-in-fact-felt-like-one-of-her-least-finished-tracks-the-genre-s-effect-on-listeners-is-remarkably-consistent {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 482px;
+  top: 3380px;
+  width: 633px;
+  height: 1223px;
+}
+.said-carlo-gonzalez-a-law-student-at-stanford-university-known-to-fans-as-seneca-b-newer-algorithms-have-encouraged-a-kind-of-featureless-formula-she-said-her-breakout-hit-on-spotify-in-fact-felt-like-one-of-her-least-finished-tracks-the-genre-s-effect-on-listeners-is-remarkably-consistent-span {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.said-carlo-gonzalez-a-law-student-at-stanford-university-known-to-fans-as-seneca-b-newer-algorithms-have-encouraged-a-kind-of-featureless-formula-she-said-her-breakout-hit-on-spotify-in-fact-felt-like-one-of-her-least-finished-tracks-the-genre-s-effect-on-listeners-is-remarkably-consistent-span2 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.said-carlo-gonzalez-a-law-student-at-stanford-university-known-to-fans-as-seneca-b-newer-algorithms-have-encouraged-a-kind-of-featureless-formula-she-said-her-breakout-hit-on-spotify-in-fact-felt-like-one-of-her-least-finished-tracks-the-genre-s-effect-on-listeners-is-remarkably-consistent-span3 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.like-george-winston-for-zoomers {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 856px;
+  top: 2866px;
+  width: 180px;
+  height: 828px;
+}
+.like-george-winston-for-zoomers-span {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.like-george-winston-for-zoomers-span2 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.like-george-winston-for-zoomers-span3 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 842px;
+  top: 3742px;
+  width: 180px;
+  height: 175px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 1199px;
+  top: 1804px;
+  width: 180px;
+  height: 175px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 1365px;
+  top: 4254px;
+  width: 180px;
+  height: 175px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.it-s-just-bland {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 398px;
+  top: 2902px;
+  width: 495px;
+  height: 56px;
+}
+.said-glenn-schellenberg-a-former-rock-musician-and-composer-who-now-studies-music-and-cognition-at-the-university-of-toronto-at-mississauga-as-he-listened-to-lo-fi-for-the-first-time {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 482px;
+  top: 2967px;
+  width: 549px;
+  height: 828px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 450px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 340px;
+  top: 3036px;
+  width: 180px;
+  height: 344px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 450px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 588px;
+  top: 2141px;
+  width: 180px;
+  height: 344px;
+}
+.div6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Regular", sans-serif;
+  font-size: 1500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  opacity: 0.2;
+  position: absolute;
+  left: 29px;
+  top: 1136px;
+  width: 180px;
+  height: 344px;
+}
+.i-like-this-kind-of-music-to-get-myself-in-the-right-mind-set-to-work {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 50px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 3858px;
+  width: 598px;
+  height: 491px;
+}
+.said-leon-wu-a-student-at-the-victorian-college-of-the-arts-in-australia {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 4052px;
+  width: 495px;
+  height: 103px;
+}
+.why-has-this-genre-become-so-popular-for-its-effect-on-work-and-relaxation-and-how-is-its-form-so-perfect-for-its-function-why-has-this-genre-become-so-popular-for-its-effect-on-work-and-relaxation-and-how-is-its-form-so-perfect-for-its-function {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 34px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 825px;
+  top: 3853px;
+  width: 495px;
+  height: 807px;
+}
+.researchers-have-studied-the-effects-of-music-on-work-for-decades-little-of-that-research-is-conclusive-or-representative-enough-to-apply-to-every-work-style-and-taste {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 100%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 566px;
+  top: 4353px;
+  width: 743px;
+  height: 556px;
+}
+.but-it-can-offer-a-few-guidelines-said-teresa-lesiuk-director-and-associate-professor-of-music-therapy-at-the-university-of-miami-s-frost-school-of-music {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 36px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 4973px;
+  width: 706px;
+  height: 264px;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 702px;
+  top: 5863px;
+  width: 550px;
+  height: 885px;
+}
+.text-span {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.text-span2 {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.text-span3 {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.good-work-music-doesn-t-inspire-feelings-that-are-too-positive-or-too-negative-music-with-lyrics-is-usually-distracting-a-slower-tempo-should-help-relax-you-a-faster-one-will-amp-you-up-think-workout-playlists-there-schellenberg-said-music-s-positive-effect-is-a-little-more-established-it-s-not-that-music-magically-makes-you-smarter-lesiuk-said-an-idea-that-got-distorted-in-the-1990-s-it-s-that-it-affects-your-mood-which-affects-cognition-workers-use-music-as-an-aural-cocoon-to-tune-out-distractions-to-switch-between-tasks-to-relax-or-to-focus-lesiuk-said-the-standard-formula-may-look-like-this-a-person-is-stressed-she-chooses-the-music-the-music-helps-regulate-her-mood-which-has-a-positive-effect-on-cognition-which-has-a-positive-effect-on-productivity {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 40px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 429px;
+  top: 5285px;
+  width: 680px;
+  height: 885px;
+}
+.good-work-music-doesn-t-inspire-feelings-that-are-too-positive-or-too-negative-music-with-lyrics-is-usually-distracting-a-slower-tempo-should-help-relax-you-a-faster-one-will-amp-you-up-think-workout-playlists-there-schellenberg-said-music-s-positive-effect-is-a-little-more-established-it-s-not-that-music-magically-makes-you-smarter-lesiuk-said-an-idea-that-got-distorted-in-the-1990-s-it-s-that-it-affects-your-mood-which-affects-cognition-workers-use-music-as-an-aural-cocoon-to-tune-out-distractions-to-switch-between-tasks-to-relax-or-to-focus-lesiuk-said-the-standard-formula-may-look-like-this-a-person-is-stressed-she-chooses-the-music-the-music-helps-regulate-her-mood-which-has-a-positive-effect-on-cognition-which-has-a-positive-effect-on-productivity-span {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 40px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.good-work-music-doesn-t-inspire-feelings-that-are-too-positive-or-too-negative-music-with-lyrics-is-usually-distracting-a-slower-tempo-should-help-relax-you-a-faster-one-will-amp-you-up-think-workout-playlists-there-schellenberg-said-music-s-positive-effect-is-a-little-more-established-it-s-not-that-music-magically-makes-you-smarter-lesiuk-said-an-idea-that-got-distorted-in-the-1990-s-it-s-that-it-affects-your-mood-which-affects-cognition-workers-use-music-as-an-aural-cocoon-to-tune-out-distractions-to-switch-between-tasks-to-relax-or-to-focus-lesiuk-said-the-standard-formula-may-look-like-this-a-person-is-stressed-she-chooses-the-music-the-music-helps-regulate-her-mood-which-has-a-positive-effect-on-cognition-which-has-a-positive-effect-on-productivity-span2 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 40px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.good-work-music-doesn-t-inspire-feelings-that-are-too-positive-or-too-negative-music-with-lyrics-is-usually-distracting-a-slower-tempo-should-help-relax-you-a-faster-one-will-amp-you-up-think-workout-playlists-there-schellenberg-said-music-s-positive-effect-is-a-little-more-established-it-s-not-that-music-magically-makes-you-smarter-lesiuk-said-an-idea-that-got-distorted-in-the-1990-s-it-s-that-it-affects-your-mood-which-affects-cognition-workers-use-music-as-an-aural-cocoon-to-tune-out-distractions-to-switch-between-tasks-to-relax-or-to-focus-lesiuk-said-the-standard-formula-may-look-like-this-a-person-is-stressed-she-chooses-the-music-the-music-helps-regulate-her-mood-which-has-a-positive-effect-on-cognition-which-has-a-positive-effect-on-productivity-span3 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 40px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.the-strongest-way-that-we-respond-to-music-is-the-associations-we-ve-had-with-it {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 50px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 266px;
+  top: 6335px;
+  width: 582px;
+  height: 1001px;
+}
+.div7 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Bold", sans-serif;
+  font-size: 450px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  opacity: 0.2;
+  position: absolute;
+  left: 120px;
+  top: 6429px;
+  width: 293px;
+  height: 344px;
+}
+.div8 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Bold", sans-serif;
+  font-size: 450px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  opacity: 0.2;
+  position: absolute;
+  left: 446px;
+  top: 4909px;
+  width: 293px;
+  height: 344px;
+}
+.div9 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Bold", sans-serif;
+  font-size: 500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  opacity: 0.2;
+  position: absolute;
+  left: 1176px;
+  top: 6864px;
+  width: 293px;
+  height: 175px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.people-wanting-to-feel-relaxed-going-back-to-their-childhood-going-back-to-before-things-were-stressful {
+  color: #000000;
+  text-align: left;
+  font-family: "AbrilFatface-Regular", sans-serif;
+  font-size: 60px;
+  line-height: 50px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 158px;
+  top: 6921px;
+  width: 895px;
+  height: 442px;
+}
+.wu-said {
+  color: #000000;
+  text-align: left;
+  font-family: "LuxuriousScript-Regular", sans-serif;
+  font-size: 64px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 868px;
+  top: 7144px;
+  width: 197px;
+  height: 37px;
+}
+.text-span4 {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.text-span5 {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  text-decoration: underline;
+}
+.text-span6 {
+  color: #000000;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.div10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Bold", sans-serif;
+  font-size: 450px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  opacity: 0.2;
+  position: absolute;
+  left: 126px;
+  top: 6433px;
+  width: 293px;
+  height: 344px;
+}
+.lesiuk-said-the-videos-album-art-tropes-serene-anime-loops-of-children-or-cartoon-animals-studying-may-hint-at {
+  color: #000000;
+  text-align: left;
+  font-family: "LuxuriousScript-Regular", sans-serif;
+  font-size: 96px;
+  line-height: 60%;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 512px;
+  top: 6624px;
+  width: 854px;
+  height: 518px;
+}
+.div11 {
+  color: #000000;
+  text-align: left;
+  font-family: "Didot-Bold", sans-serif;
+  font-size: 500px;
+  line-height: 32px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  opacity: 0.2;
+  position: absolute;
+  left: 1182px;
+  top: 6864px;
+  width: 293px;
+  height: 175px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.mix-these-desired-effects-together-and-you-may-get-something-like-lo-fi-its-slow-tempo-lack-of-words-and-especially-its-dependence-on-nostalgia-can-be-for-at-least-a-few-million-listeners-a-powerful-aid-to-relaxed-work-if-you-cycle-through-enough-playlists-you-tube-may-start-directing-you-toward-other-instrumental-throwbacks-to-work-to-from-the-faux-cassette-tape-grain-of-lo-fi-to-vintage-video-game-soundtracks-designed-as-they-were-to-be-looped-indefinitely-over-focused-tasks {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 7394px;
+  width: 487px;
+  height: 714px;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: absolute;
+  left: 731px;
+  top: 7394px;
+  width: 501px;
+  height: 714px;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span2 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span3 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span4 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span5 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span6 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span7 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span8 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span9 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+  text-decoration: underline;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span10 {
+  color: #000000;
+  font-family: "TimesNewRoman-BoldItalic", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  font-style: italic;
+}
+.that-use-of-music-as-a-tool-has-a-long-history-in-his-book-the-longing-for-less-living-with-minimalism-published-last-month-journalist-kyle-chayka-describes-how-ambient-music-developed-into-a-tool-to-enhance-your-focus-on-other-things-the-french-composer-erik-satie-created-furniture-music-designed-to-be-heard-but-not-listened-to-in-the-early-20th-century-a-precursor-to-elevator-music-muzak-brian-eno-and-today-s-chill-spotify-playlists-span11 {
+  color: #000000;
+  font-family: "Times new roman", sans-serif;
+  font-size: 32px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+}
+.depending-on-whom-you-ask-lo-fi-hip-hop-is-a-creative-feat-of-the-internet-age-a-punchline-or-a-meaningless-label-tacked-on-to-souped-up-elevator-music {
+  color: #000000;
+  text-align: left;
+  font-family: "Times new roman", sans-serif;
+  font-size: 40px;
+  line-height: 37px;
+  letter-spacing: -0.05em;
+  font-weight: 400;
+  position: sticky;
+  left: 317px;
+  top: 1351px;
+  width: 647px;
+  height: 158px;
+}
